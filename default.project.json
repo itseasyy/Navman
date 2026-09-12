@@ -1,0 +1,12 @@
+{
+  "name": "ui-navigator",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    }
+  }
+}
