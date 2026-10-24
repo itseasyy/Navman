@@ -4,4 +4,8 @@
 
 ## Getting Started
 
+<<<<<<< HEAD
 ### working on it.
+=======
+### working on it.
+>>>>>>> f368c2969d2f45735fbf36c44c8aacb9642ccc69
