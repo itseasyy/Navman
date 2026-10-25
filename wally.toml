@@ -1,7 +1,10 @@
 [package]
-name = "quantum/ui-navigator"
-version = "0.1.0"
+name = "itseasyy/navman"
+version = "0.1.0-test.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+description = "Navman is a free, open-source Roblox UI navigation library that simplifies cross-platform support for controllers, keyboards, and touchscreens. It provides context-aware UI navigation, customizable input bindings, and scriptable UI events to help developers create seamless, accessible menu experiences across devices."
+license = "MIT"
+repository = "https://github.com/itseasyy/Navman"
 
 [dependencies]
